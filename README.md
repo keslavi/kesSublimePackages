@@ -12,6 +12,8 @@ my sublime text 3 windows package setup for easy transfer
 - F9: Sort items
 - F8: remove duplicate items
 - ctrl+alt+j : format JSON (when language is json)
+- ctrl+shift+s : Save All Files (by default is save as)
+- ctrl+alt+shift+s: Save as
 
 # Packages:
 - Package Control: https://packagecontrol.io/installation (think VS Nuget for Sublime)
@@ -20,6 +22,7 @@ my sublime text 3 windows package setup for easy transfer
 - Jasmine JS
 - Pretty JSON
 - Sublime TFS
+- modific : shows file changes from repository version
 - SublimeLinter
 - DocBlockr:  https://packagecontrol.io/packages/DocBlockr simplifies comment writing
 - jsFormat
