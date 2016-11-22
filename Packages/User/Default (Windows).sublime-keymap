@@ -1,3 +1,5 @@
 [
-	{ "keys": ["f8"], "command": "permute_lines", "args": {"operation": "unique"} }
+                { "keys": ["ctrl+shift+alt+s"], "command": "prompt_save_as" },
+                { "keys": ["ctrl+shift+s"], "command": "save_all" },
+                { "keys": ["f8"], "command": "permute_lines", "args": {"operation": "unique"} }
 ]
