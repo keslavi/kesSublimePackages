@@ -1,0 +1,3 @@
+[
+	{ "keys": ["f8"], "command": "permute_lines", "args": {"operation": "unique"} }
+]

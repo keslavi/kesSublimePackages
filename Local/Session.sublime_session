@@ -1,0 +1,541 @@
+{
+	"folder_history":
+	[
+		"/C/data/dev/rp20160726/angular2-seed",
+		"/C/data/dev/rp20160726/web"
+	],
+	"last_version": 3126,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 767.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Font",
+						"FONTS_SRC\tproperty"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 173.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"forma",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"json",
+						"Pretty JSON: JSON 2 XML"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"htmlprettify",
+						"HTMLPrettify: Set Keyboard Shortcuts"
+					],
+					[
+						"prett",
+						"Pretty JSON: Format and Sort JSON"
+					]
+				],
+				"width": 432.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/data/dev/Template-Angular2-VS/client/tools/config/project.config.ts",
+				"/C/data/dev/Template-Angular2-VS/client/src/client/app/shared/toolbar/toolbar.component.css",
+				"/C/data/dev/Template-Angular2-VS/client/src/client/app/shared/toolbar/toolbar.component.html",
+				"/C/data/dev/Template-Angular2-VS/.vs/config/applicationhost.config",
+				"/C/data/dev/Template-Angular2-VS/client/src/client/app/home/home.component.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/src/client/app/shared/toolbar/toolbar.component.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/tools/tasks/project/copy.images.dev.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/src/client/assets/img",
+				"/C/data/dev/ML/Template-NG2-VS/client/tools/tasks/project/clear.readonly.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/tools/tasks/project/build.fonts.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/tools/config/project.config.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/tools/tasks/project/clean.images.dev.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/gulpfile.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/tools/env/prod.ts",
+				"/C/data/dev/ML/Template-NG2-VS/.vs/config/applicationhost.config",
+				"/C/data/dev/ML/Template-NG2-VS/client/tools/env/dev.ts",
+				"/C/data/dev/ML/Template-NG2-VS/.gitignore",
+				"/C/data/dev/z/mean20161002/server/models/user.js",
+				"/C/data/dev/z/mean20161002/server/server.js",
+				"/C/Users/msdn/Downloads/apiKey-4S70S6TKUB6THIZEWEJDWK1K5.properties",
+				"/C/data/dev/z/angular2-seed/package.json",
+				"/C/data/dev/rp20160824/src/client/package.json",
+				"/C/Users/msdn/Downloads/ec2-54-149-141-62.us-west-2.compute.amazonaws.com.rdp",
+				"/D/NH/dev/_NetHealth/_Topology.txt",
+				"/C/data/dev/rp20160726/_samples/20160601-Pell/pgyr16op.002",
+				"/C/data/dev/rp20160726/_samples/20160601-Pell/reconciliation_id_loansfpell.LST",
+				"/C/data/dev/rp20160726/_samples/20160601-Direct/_reconciliation_id_loansFSTAFFFUNSUBFPLUS.LST",
+				"/C/data/dev/rp20160726/_samples/20160601-Direct/_dsdf16op.006",
+				"/C/Users/msdn/Downloads/auth0-aspnetcore-webapi-sample-sample (1)/Dockerfile",
+				"/C/Users/msdn/AppData/Local/Temp/ecaa6082/floweringhope.co - stevecranford/testimony.js",
+				"/C/data/dev/FloweringHope/test.sln",
+				"/C/Users/msdn/Desktop/cmp.json",
+				"/C/Users/msdn/.gitconfig",
+				"/C/data/dev/FloweringHope/zTest/scripts/angular/testimonyData.json",
+				"/C/data/dev/sdb/.gitignore",
+				"/C/Users/msdn/AppData/Roaming/Sublime Text 3/Packages/GoSublime/USAGE.md",
+				"/C/data/dev/sdb/README.md",
+				"/C/data/dev/quickstart/app/app.module.ts",
+				"/C/data/dev/quickstart/app/app.component.ts",
+				"/C/data/dev/quickstart/app/app.module.js",
+				"/C/Program Files (x86)/Microsoft Visual Studio 14.0/Common7/IDE/CommonExtensions/Microsoft/TypeScript/typescriptServices.js",
+				"/C/Users/msdn/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+				"/C/Users/msdn/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+				"/C/Users/msdn/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/msdn/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/msdn/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/msdn/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 117.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"136",
+					"255858263",
+					"ethan",
+					"'",
+					"409834879",
+					"357921128\t",
+					"412756059",
+					"3566079",
+					"035660790",
+					"23885449",
+					"\\d+\\.",
+					"\\d\\.",
+					"\\d\\d\\."
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"menu_visible": true,
+			"output.GoSublime-output":
+			{
+				"height": 130.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 30.0
+			},
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 130.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 440.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1184.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Font",
+						"FONTS_SRC\tproperty"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 173.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"forma",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"json",
+						"Pretty JSON: JSON 2 XML"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"htmlprettify",
+						"HTMLPrettify: Set Keyboard Shortcuts"
+					],
+					[
+						"prett",
+						"Pretty JSON: Format and Sort JSON"
+					]
+				],
+				"width": 432.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/data/dev/Template-Angular2-VS",
+				"/C/data/dev/Template-Angular2-VS/.vs",
+				"/C/data/dev/Template-Angular2-VS/.vs/config",
+				"/C/data/dev/Template-Angular2-VS/client",
+				"/C/data/dev/Template-Angular2-VS/client/src",
+				"/C/data/dev/Template-Angular2-VS/client/src/client",
+				"/C/data/dev/Template-Angular2-VS/client/src/client/app",
+				"/C/data/dev/Template-Angular2-VS/client/src/client/app/home"
+			],
+			"file_history":
+			[
+				"/C/data/dev/Template-Angular2-VS/client/tools/config/project.config.ts",
+				"/C/data/dev/Template-Angular2-VS/client/src/client/app/shared/toolbar/toolbar.component.css",
+				"/C/data/dev/Template-Angular2-VS/client/src/client/app/shared/toolbar/toolbar.component.html",
+				"/C/data/dev/Template-Angular2-VS/.vs/config/applicationhost.config",
+				"/C/data/dev/Template-Angular2-VS/client/src/client/app/home/home.component.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/src/client/app/shared/toolbar/toolbar.component.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/tools/tasks/project/copy.images.dev.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/src/client/assets/img",
+				"/C/data/dev/ML/Template-NG2-VS/client/tools/tasks/project/clear.readonly.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/tools/tasks/project/build.fonts.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/tools/config/project.config.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/tools/tasks/project/clean.images.dev.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/gulpfile.ts",
+				"/C/data/dev/ML/Template-NG2-VS/client/tools/env/prod.ts",
+				"/C/data/dev/ML/Template-NG2-VS/.vs/config/applicationhost.config",
+				"/C/data/dev/ML/Template-NG2-VS/client/tools/env/dev.ts",
+				"/C/data/dev/ML/Template-NG2-VS/.gitignore",
+				"/C/data/dev/z/mean20161002/server/models/user.js",
+				"/C/data/dev/z/mean20161002/server/server.js",
+				"/C/Users/msdn/Downloads/apiKey-4S70S6TKUB6THIZEWEJDWK1K5.properties",
+				"/C/data/dev/z/angular2-seed/package.json",
+				"/C/data/dev/rp20160824/src/client/package.json",
+				"/C/Users/msdn/Downloads/ec2-54-149-141-62.us-west-2.compute.amazonaws.com.rdp",
+				"/D/NH/dev/_NetHealth/_Topology.txt",
+				"/C/data/dev/rp20160726/_samples/20160601-Pell/pgyr16op.002",
+				"/C/data/dev/rp20160726/_samples/20160601-Pell/reconciliation_id_loansfpell.LST",
+				"/C/data/dev/rp20160726/_samples/20160601-Direct/_reconciliation_id_loansFSTAFFFUNSUBFPLUS.LST",
+				"/C/data/dev/rp20160726/_samples/20160601-Direct/_dsdf16op.006",
+				"/C/Users/msdn/Downloads/auth0-aspnetcore-webapi-sample-sample (1)/Dockerfile",
+				"/C/Users/msdn/AppData/Local/Temp/ecaa6082/floweringhope.co - stevecranford/testimony.js",
+				"/C/data/dev/FloweringHope/test.sln",
+				"/C/Users/msdn/Desktop/cmp.json",
+				"/C/Users/msdn/.gitconfig",
+				"/C/data/dev/FloweringHope/zTest/scripts/angular/testimonyData.json",
+				"/C/data/dev/sdb/.gitignore",
+				"/C/Users/msdn/AppData/Roaming/Sublime Text 3/Packages/GoSublime/USAGE.md",
+				"/C/data/dev/sdb/README.md",
+				"/C/data/dev/quickstart/app/app.module.ts",
+				"/C/data/dev/quickstart/app/app.component.ts",
+				"/C/data/dev/quickstart/app/app.module.js",
+				"/C/Program Files (x86)/Microsoft Visual Studio 14.0/Common7/IDE/CommonExtensions/Microsoft/TypeScript/typescriptServices.js",
+				"/C/Users/msdn/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+				"/C/Users/msdn/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+				"/C/Users/msdn/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/msdn/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/msdn/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/msdn/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 117.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"136",
+					"255858263",
+					"ethan",
+					"'",
+					"409834879",
+					"357921128\t",
+					"412756059",
+					"3566079",
+					"035660790",
+					"23885449",
+					"\\d+\\.",
+					"\\d\\.",
+					"\\d\\d\\."
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.GoSublime-output":
+			{
+				"height": 130.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 30.0
+			},
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 130.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,851,182,25,1382",
+			"project": "Template-NG2-VS2015.sublime-project",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 440.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": "/C/data/dev/Template-Angular2-VS/Template-NG2-VS2015.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/data/dev/Template-Angular2-VS/Template-NG2-VS2015.sublime-workspace"
+		]
+	}
+}
